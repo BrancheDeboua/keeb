@@ -1,0 +1,394 @@
+{
+    "id": "01J9HCZA4P7SJMRP4QY4BTNG22",
+    "name": "SplitL",
+    "manufacturer": "Branche",
+    "description": "",
+    "tags": [],
+    "controller": "",
+    "keyboardType": "splitSerial",
+    "wiringMethod": "matrix",
+    "diodeDirection": "COL2ROW",
+    "rows": 5,
+    "cols": 6,
+    "pins": 0,
+    "rowPins": [
+        "16",
+        "17",
+        "18",
+        "19",
+        "20"
+    ],
+    "colPins": [
+        "10",
+        "11",
+        "12",
+        "13",
+        "14",
+        "15"
+    ],
+    "directPins": [],
+    "encoders": [],
+    "layouts": [],
+    "keys": [
+        {
+            "x": 0,
+            "y": 0,
+            "idx": 0
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "idx": 1
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "idx": 2
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "idx": 3
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "idx": 4
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "idx": 5
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "idx": 6
+        },
+        {
+            "x": 1,
+            "y": 1,
+            "idx": 7
+        },
+        {
+            "x": 2,
+            "y": 1,
+            "idx": 8
+        },
+        {
+            "x": 3,
+            "y": 1,
+            "idx": 9
+        },
+        {
+            "x": 4,
+            "y": 1,
+            "idx": 10
+        },
+        {
+            "x": 5,
+            "y": 1,
+            "idx": 11
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "idx": 12
+        },
+        {
+            "x": 1,
+            "y": 2,
+            "idx": 13
+        },
+        {
+            "x": 2,
+            "y": 2,
+            "idx": 14
+        },
+        {
+            "x": 3,
+            "y": 2,
+            "idx": 15
+        },
+        {
+            "x": 4,
+            "y": 2,
+            "idx": 16
+        },
+        {
+            "x": 5,
+            "y": 2,
+            "idx": 17
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "idx": 18
+        },
+        {
+            "x": 1,
+            "y": 3,
+            "idx": 19
+        },
+        {
+            "x": 2,
+            "y": 3,
+            "idx": 20
+        },
+        {
+            "x": 3,
+            "y": 3,
+            "idx": 21
+        },
+        {
+            "x": 4,
+            "y": 3,
+            "idx": 22
+        },
+        {
+            "x": 5,
+            "y": 3,
+            "idx": 23
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "idx": 24
+        },
+        {
+            "x": 1,
+            "y": 4,
+            "idx": 25
+        },
+        {
+            "x": 2,
+            "y": 4,
+            "idx": 26
+        },
+        {
+            "x": 3,
+            "y": 4,
+            "idx": 27
+        },
+        {
+            "x": 4,
+            "y": 4,
+            "idx": 28
+        },
+        {
+            "x": 5,
+            "y": 4,
+            "idx": 29
+        }
+    ],
+    "keymap": [
+        [
+            "KC.ESC",
+            "KC.N1",
+            "KC.N2",
+            "KC.N3",
+            "KC.N4",
+            "KC.N5",
+            "KC.TAB",
+            "KC.Q",
+            "KC.W",
+            "KC.E",
+            "KC.R",
+            "KC.T",
+            "KC.CAPS",
+            "KC.A",
+            "KC.S",
+            "KC.D",
+            "KC.F",
+            "KC.G",
+            "KC.LSFT",
+            "KC.Z",
+            "KC.X",
+            "KC.C",
+            "KC.V",
+            "KC.B",
+            "KC.LCTL",
+            "KC.LALT",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.LGUI",
+            "KC.SPC",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS"
+        ],
+        [
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS"
+        ]
+    ],
+    "encoderKeymap": [
+        [],
+        []
+    ],
+    "layers": [
+        {
+            "name": ""
+        },
+        {
+            "name": ""
+        }
+    ],
+    "split": true,
+    "splitPinA": "0",
+    "splitPinB": "1",
+    "splitSide": "label",
+    "vbusPin": "VBUS_SENSE",
+    "coordMap": [
+        [
+            "000",
+            "001",
+            "002",
+            "003",
+            "004",
+            "005"
+        ],
+        [
+            "006",
+            "007",
+            "008",
+            "009",
+            "010",
+            "011"
+        ],
+        [
+            "012",
+            "013",
+            "014",
+            "015",
+            "016",
+            "017"
+        ],
+        [
+            "018",
+            "019",
+            "020",
+            "021",
+            "022",
+            "023"
+        ],
+        [
+            "024",
+            "025",
+            "026",
+            "027",
+            "028",
+            "029"
+        ]
+    ],
+    "pinPrefix": "gp",
+    "coordMapSetup": true,
+    "rgbPin": "",
+    "rgbNumLeds": 0,
+    "rgbOptions": {
+        "animationMode": 0,
+        "hueDefault": 0,
+        "satDefault": 255,
+        "valDefault": 255,
+        "animationSpeed": 1,
+        "breatheCenter": 1,
+        "knightEffectLength": 3
+    },
+    "kbFeatures": [
+        "basic",
+        "serial",
+        "oneshot",
+        "tapdance",
+        "holdtap",
+        "mousekeys",
+        "combos",
+        "macros"
+    ],
+    "flashingMode": "automatic",
+    "lastEdited": "2024-10-06 16:41"
+}
